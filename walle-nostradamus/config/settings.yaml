@@ -1,0 +1,2 @@
+data_path: data/processed
+model_path: output/model.pkl
